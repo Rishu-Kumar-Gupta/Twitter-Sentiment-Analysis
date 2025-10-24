@@ -30,7 +30,7 @@ The goal of this project is to build and evaluate a model that can accurately pr
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[YOUR_GITHUB_USERNAME]/[YOUR_REPOSITORY_NAME].git
+    git clone [https://github.com/](https://github.com/Rishu-Kumar-Gupta/Twitter-Sentiment-Analysis.git)
     ```
 
 2.  **Install dependencies:**
